@@ -1,15 +1,15 @@
 #  Hi, I’m Syed Alam Shah Bukhari
 
- **Bachelor’s Student in Artificial Intelligence**  
- **Aspiring AI Engineer | Software Developer | Problem Solver**
+ **Bachelor’s Student in Artificial Intelligence at Mehran University Of Engineering & Technology**  
+ **Aspiring AI Engineering foundations | Agent builder | Problem Solver**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a dedicated student pursuing a Bachelor’s in Artificial Intelligence, with a strong foundation in Data Structures and Algorithms (DSA) and hands-on experience in Java, C++, and SQL. My current learning journey is focused on Python for AI development, with a special interest in agentic AI systems and agentic architectures.
 
-I am passionate about solving complex problems, writing clean and efficient code, and exploring how artificial intelligence—especially intelligent agents—can drive real-world impact. I am actively seeking opportunities to collaborate on innovative projects, contribute to open-source, and gain professional experience in AI and software engineering.
+I am passionate about solving complex problems, writing clean and efficient code, and exploring how artificial intelligence—especially intelligent agents—can drive real-world impact. I am actively seeking opportunities to collaborate on innovative projects, contribute to open-source, and gain professional experience in AI and software engineering. working on my foundations of programming and Ai Engineering.
 
 ---
 
@@ -44,7 +44,9 @@ I am passionate about solving complex problems, writing clean and efficient code
 ## 🌟 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-alam-shah-bukhari-74938a2b7)
+[![Twitter/X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/syedalam__?t=oBowoCGBNIQ7lj--pr8Sug&s=09)
 
+---
 
 
 *Let’s connect, collaborate, and shape the future of AI together!*
