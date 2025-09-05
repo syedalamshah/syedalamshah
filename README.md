@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Syed Alam Shah Bukhari
+#  Hi, I’m Syed Alam Shah Bukhari
 
-🎓 **Bachelor’s Student in Artificial Intelligence**  
-💡 **Aspiring AI Engineer | Software Developer | Problem Solver**
+ **Bachelor’s Student in Artificial Intelligence**  
+ **Aspiring AI Engineer | Software Developer | Problem Solver**
 
 ---
 
