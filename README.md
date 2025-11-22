@@ -13,7 +13,7 @@ I am passionate about solving complex problems, writing clean and efficient code
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
 - **Learning:** Python for AI, agentic architectures, and autonomous AI agents
 - **Building Expertise In:** Software engineering best practices, AI applications, and next-gen agentic systems
@@ -21,7 +21,7 @@ I am passionate about solving complex problems, writing clean and efficient code
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -32,7 +32,7 @@ I am passionate about solving complex problems, writing clean and efficient code
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - [30-days-Projects_from_Scratch](https://github.com/syedalamshah/30-days-Projects_from_Scratch): A collection of daily coding projects to enhance programming and problem-solving skills.
 - [DSA-Grinding-Summers](https://github.com/syedalamshah/DSA-Grinding-Summers): Intensive DSA practice repository.
@@ -41,7 +41,7 @@ I am passionate about solving complex problems, writing clean and efficient code
 
 ---
 
-## 🌟 Let’s Connect!
+##  Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-alam-shah-bukhari-74938a2b7)
 [![Twitter/X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/syedalam__?t=oBowoCGBNIQ7lj--pr8Sug&s=09)
