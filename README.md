@@ -1,7 +1,7 @@
 #  Hi, I’m Syed Alam Shah Bukhari
 
  **Bachelor’s Student in Artificial Intelligence at Mehran University Of Engineering & Technology**  
- **Aspiring AI Engineering foundations | Agent builder | Problem Solver**
+ **AI @ MUET | Building ML Models & AI Agents | Python | LLMs | Automation**
 
 ---
 
