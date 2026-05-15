@@ -1,52 +1,49 @@
-#  Hi, I’m Syed Alam Shah Bukhari
+# Syed Alam Shah Bukhari
 
- **Bachelor’s Student in Artificial Intelligence at Mehran University Of Engineering & Technology**  
- **AI @ MUET | Building ML Models & AI Agents | Python | LLMs | Automation**
+BS Artificial Intelligence @ MUET '28 · Hyderabad, Pakistan
 
----
-
-## About Me
-
-I am a dedicated student pursuing a Bachelor’s in Artificial Intelligence, with a strong foundation in Data Structures and Algorithms (DSA) and hands-on experience in Java, C++, and SQL. My current learning journey is focused on Python for AI development, with a special interest in agentic AI systems and agentic architectures.
-
-I am passionate about solving complex problems, writing clean and efficient code, and exploring how artificial intelligence—especially intelligent agents—can drive real-world impact. I am actively seeking opportunities to collaborate on innovative projects, contribute to open-source, and gain professional experience in AI and software engineering. working on my foundations of programming and Ai Engineering.
+I learn by building. Currently going deep on Machine Learning,
+LLM Systems, RAG Pipelines and Agentic AI, Deep level understanding of Neural network and Tranformers.
 
 ---
 
-##  Current Focus
+## What I'm Working On
 
-- **Learning:** Python for AI, agentic architectures, and autonomous AI agents
-- **Building Expertise In:** Software engineering best practices, AI applications, and next-gen agentic systems
-- **Collaborating On:** Open-source projects and research in artificial intelligence
-
----
-
-##  Skills & Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-4B8BBE?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-6C3483?style=for-the-badge)
+- Building RAG systems and LLM applications from scratch
+- Strengthening ML and NLP fundamentals
+- Learning Agentic AI architectures
+- Documenting everything publicly
 
 ---
 
-##  Featured Projects
+## Stack
 
-- [30-days-Projects_from_Scratch](https://github.com/syedalamshah/30-days-Projects_from_Scratch): A collection of daily coding projects to enhance programming and problem-solving skills.
-- [DSA-Grinding-Summers](https://github.com/syedalamshah/DSA-Grinding-Summers): Intensive DSA practice repository.
-- [-DSA-Labs-Manual-Java](https://github.com/syedalamshah/-DSA-Labs-Manual-Java): Comprehensive Java-based DSA lab manual and solutions.
-- [MehranStudentMannagement](https://github.com/syedalamshah/MehranStudentMannagement): Student management system project.
-
----
-
-##  Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-alam-shah-bukhari-74938a2b7)
-[![Twitter/X](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/syedalam__?t=oBowoCGBNIQ7lj--pr8Sug&s=09)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
 
 ---
 
+## Projects
 
-*Let’s connect, collaborate, and shape the future of AI together!*
+**RAG Pipeline**
+Answers questions from any PDF using Gemini, LangChain and ChromaDB.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-alam-shah-bukhari-74938a2b7)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/syedalam__)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedalamshah&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedalamshah&theme=tokyonight&hide_border=true)
+
+---
+
+*Learning deeply. Building consistently. Documenting publicly*
