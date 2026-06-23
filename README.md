@@ -29,7 +29,7 @@ I learn by building. Currently going deep on RAG Pipelines, LLM Systems and Agen
 ## Projects
 
 **RAG Pipeline**
-Chat with any PDF document — ask questions, get answers with sources.
+Chat with any PDF document ask questions, get answers with sources.
 Built using Gemini API, LangChain and ChromaDB from scratch.
 [github.com/syedalamshah/rag-pipeline](https://github.com/syedalamshah/rag-pipeline)
 
@@ -53,4 +53,4 @@ Built using LangChain Sequential Chains, Gemini API and Streamlit.
 
 ---
 
-*Building in public. One system at a time.*
+*Building in public and shipping.*
