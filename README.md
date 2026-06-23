@@ -1,18 +1,17 @@
 # Syed Alam Shah Bukhari
 
-BS Artificial Intelligence @ MUET '28 · Hyderabad, Pakistan
+AI Engineer Intern @ PM Accelerator (US) | RAG · LLM Systems · Agentic AI | BS AI @ MUET '28
 
-I learn by building. Currently going deep on Machine Learning,
-LLM Systems, RAG Pipelines and Agentic AI, Deep level understanding of Neural network and Tranformers.
+I learn by building. Currently going deep on RAG Pipelines, LLM Systems and Agentic AI. Every concept I study becomes a working system.
 
 ---
 
-## What I'm Working On
+## What I'm Building
 
-- Building RAG systems and LLM applications from scratch
-- Strengthening ML and NLP fundamentals
-- Learning Agentic AI architectures
-- Documenting everything publicly
+- RAG Pipelines using LangChain, ChromaDB and Gemini API
+- LLM Applications with Sequential Chains and Streamlit
+- Exploring Agentic AI and NLP fundamentals
+- Documenting my learning journey publicly
 
 ---
 
@@ -20,6 +19,7 @@ LLM Systems, RAG Pipelines and Agentic AI, Deep level understanding of Neural ne
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
@@ -29,7 +29,14 @@ LLM Systems, RAG Pipelines and Agentic AI, Deep level understanding of Neural ne
 ## Projects
 
 **RAG Pipeline**
-Answers questions from any PDF using Gemini, LangChain and ChromaDB.
+Chat with any PDF document — ask questions, get answers with sources.
+Built using Gemini API, LangChain and ChromaDB from scratch.
+[github.com/syedalamshah/rag-pipeline](https://github.com/syedalamshah/rag-pipeline)
+
+**Restaurant Name & Menu Generator**
+AI powered restaurant name and menu generator from any cuisine type.
+Built using LangChain Sequential Chains, Gemini API and Streamlit.
+[github.com/syedalamshah/Restaurant-Generator](https://github.com/syedalamshah/Restaurant-Generator)
 
 ---
 
@@ -46,4 +53,4 @@ Answers questions from any PDF using Gemini, LangChain and ChromaDB.
 
 ---
 
-*Learning deeply. Building consistently. Documenting publicly*
+*Building in public. One system at a time.*
