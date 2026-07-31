@@ -5,7 +5,7 @@ AI Engineer Intern @ PM Accelerator (US) · RAG · LLM Systems · Agentic AI · 
 </p>
 
 <p align="center">
-I build production AI systems — RAG pipelines, LLM applications, and agentic workflows — end to end, from architecture to deployment.
+I build production AI systems RAG pipelines, LLM applications, and agentic workflows end to end, from architecture to deployment.
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@ I build production AI systems — RAG pipelines, LLM applications, and agentic w
 
 ## What I'm Building
 
-- **RAG pipelines** using LangChain, ChromaDB, and Gemini API — deployed, not just demoed
+- **RAG pipelines** using LangChain, ChromaDB, and Gemini API deployed, not just demoed
 - **LLM applications** with Sequential Chains and Streamlit
-- **Agentic AI & multi-agent systems** — currently going deeper
-- **Attuned AI** — a GenAI parenting product, built as an AI Engineer Intern at PM Accelerator
+- **Agentic AI & multi-agent systems** currently going deeper
+- **Attuned AI** a GenAI parenting product, built as an AI Engineer Intern at PM Accelerator
 
 <br>
 
@@ -44,7 +44,7 @@ I build production AI systems — RAG pipelines, LLM applications, and agentic w
 ## Projects
 
 ### RAG Pipeline
-Chat with any PDF — ask questions, get sourced answers. Built and deployed from scratch with Gemini API, LangChain, and ChromaDB; resolved cloud compatibility issues (SQLite, API timeouts) to get it production-ready.
+Chat with any PDF ask questions, get sourced answers. Built and deployed from scratch with Gemini API, LangChain, and ChromaDB; resolved cloud compatibility issues (SQLite, API timeouts) to get it production-ready.
 
 **[Live Demo →](https://rag-pipeline-hjxoy9tf7ulqmh2qtvu2jo.streamlit.app)** · **[Code →](https://github.com/syedalamshah/rag-pipeline)**
 
