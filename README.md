@@ -5,7 +5,7 @@ AI Engineer · GenAI · RAG · LLM Systems · Agentic AI
 </p>
 
 <p align="center">
-Building reliable, production-oriented AI systems — from retrieval and structured LLM workflows to evaluation and backend integration.
+Building reliable, production-oriented AI systems, from retrieval and structured LLM workflows to evaluation and backend integration.
 </p>
 
 <p align="center">
@@ -23,27 +23,37 @@ Former AI Engineering Intern @ PM Accelerator · Pie & AI Ambassador @ DeepLearn
 
 <br>
 
-## What I Work On
+## About
 
-* **RAG & Retrieval Systems** — hybrid retrieval, vector search, embeddings, and context-aware LLM applications
-* **LLM Workflows** — structured outputs, extraction pipelines, API integrations, and AI-powered backend services
-* **AI Evaluation & Reliability** — testing AI outputs, measuring quality, and improving system reliability
-* **Agentic AI** — tool-using and multi-step AI workflows
-* **Production AI Engineering** — backend integration, debugging, deployment, and turning AI capabilities into usable products
+I build AI systems with a focus on reliability, evaluation, and real-world integration.
+
+My work spans retrieval pipelines, structured LLM workflows, AI evaluation, and backend infrastructure. I am particularly interested in the engineering challenges that appear when moving from a working AI prototype to a system that can be tested, improved, and used in a real product.
+
+I learn by building, shipping, debugging, and understanding what breaks along the way.
 
 <br>
 
 ## Experience
 
-### AI Engineering Intern — PM Accelerator
+### AI Engineering Intern | PM Accelerator
 
-Contributed to the development of a real-world GenAI product and took initial ownership of a core AI pipeline.
+Contributed to the development of a GenAI-powered product and took initial ownership of a core AI pipeline.
 
 * Built a hybrid retrieval system combining keyword search with **pgvector semantic search**
-* Developed LLM-powered structured extraction workflows across **29 behavior codes and 65+ trigger categories**
-* Built an evaluation workflow using a **100-case labeled dataset** and quality/safety metrics
-* Resolved backend and infrastructure issues involving **PostgreSQL, Supabase, Docker, RLS, and APIs**
-* Collaborated with engineers, product managers, and designers to move the feature toward Demo Day
+* Developed LLM-powered structured extraction workflows covering **29 behavior codes and 65+ trigger categories**
+* Built an evaluation workflow using a **100-case labeled dataset** with quality and safety metrics
+* Worked through backend and infrastructure challenges involving **PostgreSQL, Supabase, Docker, RLS, and APIs**
+* Collaborated with engineers, product managers, and designers to move the product toward Demo Day
+
+<br>
+
+## What I Work On
+
+* **RAG & Retrieval Systems**: Hybrid search, vector search, embeddings, and context-aware AI applications
+* **LLM Workflows**: Structured outputs, extraction pipelines, API integrations, and AI-powered backend services
+* **AI Evaluation & Reliability**: Testing outputs, measuring quality, and improving system performance
+* **Agentic AI**: Tool-using, multi-step, and stateful AI workflows
+* **Production AI Engineering**: Backend integration, debugging, deployment, and system reliability
 
 <br>
 
@@ -84,7 +94,7 @@ Built using **LangChain Sequential Chains, the Gemini API, and Streamlit**.
 
 ## Currently Exploring
 
-* Advanced Agentic AI systems
+* Advanced agentic AI systems
 * AI evaluation and observability
 * Production-grade RAG architectures
 * Backend infrastructure for AI applications
